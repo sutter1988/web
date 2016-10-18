@@ -1,0 +1,6 @@
+baseurl = "localhost:1313"
+languageCode = "de-de"
+title = "PS"
+theme = "hugo-theme-pixyll"
+
+
